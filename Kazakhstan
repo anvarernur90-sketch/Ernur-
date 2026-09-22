@@ -1,0 +1,9 @@
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Men oz kolummen birinshi kodty jazdym!")
+    fmt.Println("Maksat: Shfitsariyanın 2 filialy!")
+    fmt.Println("Kolek: Kia K5 neobese Sonata!")
+}
